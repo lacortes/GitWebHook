@@ -9,6 +9,6 @@ Useful commands:
    source path_to_env/name_of_env/bin/activate
    ```
 3. Deactivate virtual environment
-   '''bash
+   ```bash
    deactivate
-   '''
+   ```
